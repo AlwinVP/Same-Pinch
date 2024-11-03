@@ -11,7 +11,7 @@ function openMessPage() {
     }
 
 function openUserPage() {
-    window.location.href = "/User/";
+    window.location.href = "/User/profile.html";
     }
 
 function openNotPage() {
